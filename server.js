@@ -7,7 +7,7 @@ var app = express();
 // setup a 'route' to listen on the default url path
 
 app.get("/", (req, res) => {
-    res.send("Hello World!");
+    res.send("Brian Skanes - didnt know we had student numbers");
 });
 
 // setup http server to listen on HTTP_PORT
